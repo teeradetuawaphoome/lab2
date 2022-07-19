@@ -52,7 +52,7 @@ double addFun(double a, double b){
 
 
 double subFun(double a, double b){
-    return(a - b);
+    return(a  b);
 }
 
 
