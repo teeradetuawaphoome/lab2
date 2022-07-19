@@ -1,4 +1,4 @@
-/*void main(){
+void main(){
     list<String>binary=[];
     print('Deccimal Number \t\t Binary Number');
     for(int i= 0; i<=20; i++){
@@ -10,5 +10,5 @@
         print('$deecimal\t\t\t${binary[i]}');
     }
 }
-*/
-void main(){}
+
+
